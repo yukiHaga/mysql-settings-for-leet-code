@@ -1,0 +1,1 @@
+CREATE DATABASE leet_code;
